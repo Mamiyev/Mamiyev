@@ -1,4 +1,4 @@
-#👋 Hi, my name is Yunus Mamiyev!
+# 👋 Hi, my name is Yunus Mamiyev!
 ## I'm a *Front-end developer* from Moscow
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
