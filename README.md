@@ -14,7 +14,8 @@
 
 Title | Stack | Live demo | GitHub repo
 -------- | --------- | --------- | -----------
-Webovio | HTML, CSS | [link](https://mamiyev.github.io/web_projects/webovio/) | [link](https://github.com/Mamiyev/web_projects/tree/main/webovio)
-Alivio | HTML, CSS  | [link](https://mamiyev.github.io/web_projects/alivio/)  | [link](https://github.com/Mamiyev/web_projects/tree/main/alivio)
+Webovio | HTML, CSS | [view demo](https://mamiyev.github.io/web_projects/webovio/) | [link](https://github.com/Mamiyev/web_projects/tree/main/webovio)
+Alivio | HTML, CSS  | [view demo](https://mamiyev.github.io/web_projects/alivio/)  | [link](https://github.com/Mamiyev/web_projects/tree/main/alivio)
 Ratings App | Typescript, Nextjs(SSR), FramerMotion | - | [link](https://github.com/Mamiyev/ratings-app)
 Ecommerce App | Typescript, Nextjs | - | [link](https://github.com/Mamiyev/g-ecomfront)
+Admin dashboard | Typescript, React | - | [link](https://github.com/Mamiyev/admin-dashboard)
