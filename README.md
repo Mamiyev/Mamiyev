@@ -2,7 +2,6 @@
 ## I'm a *Front-end developer* from Moscow
 ### Languages and Technologies
 ![NodeJs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![NextJs](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -18,4 +17,3 @@ Webovio | HTML, CSS | [view demo](https://mamiyev.github.io/web_projects/webovio
 Alivio | HTML, CSS  | [view demo](https://mamiyev.github.io/web_projects/alivio/)  | [link](https://github.com/Mamiyev/web_projects/tree/main/alivio)
 Ratings App | Typescript, Nextjs(SSR), FramerMotion | - | [link](https://github.com/Mamiyev/ratings-app)
 Ecommerce App | Typescript, Nextjs | - | [link](https://github.com/Mamiyev/g-ecomfront)
-Admin dashboard | Typescript, React | - | [link](https://github.com/Mamiyev/admin-dashboard)
