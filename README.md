@@ -13,7 +13,7 @@
 
 Title | Stack | Live demo | GitHub repo
 -------- | --------- | --------- | -----------
-Webovio | HTML, CSS | [view demo](https://mamiyev.github.io/web_projects/webovio/) | [source](https://github.com/Mamiyev/web_projects/tree/main/webovio)
-Alivio | HTML, CSS  | [view demo](https://mamiyev.github.io/web_projects/alivio/)  | [source](https://github.com/Mamiyev/web_projects/tree/main/alivio)
-Ratings App | Typescript, Nextjs(SSR) | [view demo](https://ratings-app.vercel.app/) | [source](https://github.com/Mamiyev/ratings-app)
-Ecommerce App | Typescript, Nextjs | - | [link](https://github.com/Mamiyev/g-ecomfront)
+Webovio | HTML, CSS | [view demo](https://mamiyev.github.io/web_projects/webovio/){:target="_blank"} | [source](https://github.com/Mamiyev/web_projects/tree/main/webovio){:target="_blank"}
+Alivio | HTML, CSS  | [view demo](https://mamiyev.github.io/web_projects/alivio/){:target="_blank"}  | [source](https://github.com/Mamiyev/web_projects/tree/main/alivio){:target="_blank"}
+Ratings App | Typescript, Nextjs(SSR) | [view demo](https://ratings-app.vercel.app/){:target="_blank"} | [source](https://github.com/Mamiyev/ratings-app){:target="_blank"}
+Ecommerce App | Typescript, Nextjs | - | [link](https://github.com/Mamiyev/g-ecomfront){:target="_blank"}
