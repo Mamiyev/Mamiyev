@@ -8,12 +8,3 @@
 ![ReactJs](https://img.shields.io/badge/-ReactJs-090909?style=for-the-badge&logo=React)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
-
-### Here some of my projects
-
-Title | Stack | Live demo | GitHub repo
--------- | --------- | --------- | -----------
-Webovio | HTML, CSS | [view demo](https://mamiyev.github.io/web_projects/webovio/) | [source](https://github.com/Mamiyev/web_projects/tree/main/webovio)
-Alivio | HTML, CSS  | [view demo](https://mamiyev.github.io/web_projects/alivio/)  | [source](https://github.com/Mamiyev/web_projects/tree/main/alivio)
-Ratings App | Typescript, Nextjs(SSR) | [view demo](https://ratings-app.vercel.app/) | [source](https://github.com/Mamiyev/ratings-app)
-Ecommerce App | Typescript, Nextjs | - | [link](https://github.com/Mamiyev/g-ecomfront)
